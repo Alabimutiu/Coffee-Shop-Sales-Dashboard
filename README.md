@@ -1,0 +1,1 @@
+This project explores a coffee shop's sales data using Power BI to uncover actionable business insights. The analysis focuses on month to month performance, product trends, customer types, and monthly sales growth.
