@@ -72,12 +72,13 @@ This dashboard highlights a significant month-over-month drop in sales, orders, 
 
 ---
 
-## 👤 About the Author
----
+## 👨‍💻 Author--Mutiu Sulaimon
 
-## 🔗 Connect with Me
+*This project is part of my data analytics portfolio, showcasing PowerBI skills in data analysis.*
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
+### Connect with me
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/mutiu-sulaimon-7b604367/)
+
+Thank you for your support, and I look forward to connecting with you!
 
 ---
