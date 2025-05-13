@@ -23,7 +23,7 @@ This project analyzes coffee shop sales month to month performance. It provides 
 - Includes fields such as transaction date, product category/type, store location, quantity sold, and total amount.
 
 ---
-
+ ![](https://github.com/Alabimutiu/Coffee-Shop-Sales-Dashboard/blob/main/Dashboard.PNG)
 ## 📊 Key Insights
 
 ### 🔢 Overall Metrics
