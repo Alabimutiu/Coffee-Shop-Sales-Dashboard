@@ -24,7 +24,7 @@ This project analyzes coffee shop sales month to month performance. It provides 
 
 ---
  ![](https://github.com/Alabimutiu/Coffee-Shop-Sales-Dashboard/blob/main/Dashboard.PNG)
-## 📊 Key Insights
+## 📊 Key Insights for March 2023
 
 ### 🔢 Overall Metrics
 - **Total Sales:** $99K  
