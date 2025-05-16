@@ -24,7 +24,8 @@ This project analyzes coffee shop sales month to month performance. It provides 
 
 ---
  ![](https://github.com/Alabimutiu/Coffee-Shop-Sales-Dashboard/blob/main/Dashboard.PNG)
- ![](https://github.com/Alabimutiu/Coffee-Shop-Sales-Dashboard/blob/main/coffeevideo-ezgif.com-video-to-gif-converter.gif)
+
+ ![Demo](https://github.com/Alabimutiu/Coffee-Shop-Sales-Dashboard/blob/main/coffeevideo-ezgif.com-video-to-gif-converter.gif)
 ## 📊 Key Insights for March 2023
 
 ### 🔢 Overall Metrics
